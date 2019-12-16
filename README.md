@@ -4,3 +4,5 @@ Dependency react and react dom:
 npm install react react-dom
 install parcel bundler:npm install parcel-bundler -g
 To run the code : parcel index.js
+For   Folder:
+TO run code:npm start
